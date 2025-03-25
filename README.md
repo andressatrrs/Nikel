@@ -2,7 +2,7 @@
 
 ![logo-growdev](./public/assets/images/growdev-logo.png)
 
-Este é um repositório para o curso Codaí [Codaí](https://codai.growdev.com.br/). Este curso faz parte do programa `Starter+ Elas no Front`, realizado pela empresa [Growdev](https://www.growdev.com.br/about-us).
+Este é um repositório para o curso [Codaí](https://codai.growdev.com.br/). Este curso faz parte do programa `Starter+ Elas no Front`, realizado pela empresa [Growdev](https://www.growdev.com.br/about-us).
 
 ## Descrição
 
